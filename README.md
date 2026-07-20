@@ -93,6 +93,8 @@ I'm a motivated **PHP Full-Stack Developer** and Software Engineering student, p
 
 
 <p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bogdanist&theme=github_dark" alt="Top Languages by Comimts"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BOGDANIST&theme=github_dark" alt="Top Languages by Repo"/>
 </p>
 
